@@ -4,3 +4,4 @@ First within the team we decided to create a file in the Documentation explainin
 After making the explanatory file a Kanban board was created as well as issues and these were added to it, people selected some of them and started working. After some changes were made to the original explanatory file to make the explanation clearer. (The kanban board can be seen below on image4)
 
 ![image4](images/Image4.png)
+![image5](images/Image5.png)
