@@ -5,5 +5,5 @@ After making the explanatory file a Kanban board was created as well as issues a
 
 ![image4](images/Image4.png)
 
-Here on image5 (below) we can see an example of the tasks created, with an user story and a DoD that facilitates carrying out each of the tasks.\
+Here on image5 (below) we can see an example of the tasks created, with an user story and a DoD that facilitates carrying out each of the tasks.\n
 ![image5](images/Image5.png)
