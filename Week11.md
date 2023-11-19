@@ -1,0 +1,1 @@
+This week more work was done on taks left over from week3. I worked on giving feedback on other's tasks. Compared to other's work mine is lacking in the programming aspect, compared to the more managerial approach that I have as per my lack of programming skills.
